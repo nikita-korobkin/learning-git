@@ -1,3 +1,3 @@
 # Learning Git
 
-Hey there!
+Hey there! 👋
