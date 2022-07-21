@@ -1,1 +1,4 @@
 some content
+AND
+some text
+(conflict resolved just like that 🪄)
